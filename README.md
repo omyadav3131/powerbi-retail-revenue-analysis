@@ -3,6 +3,13 @@
 ## Project Overview
 This project analyzes an online retail dataset using Power BI to identify revenue trends, top-performing countries, and high-value customers. The goal is to generate business insights that support strategic expansion decisions.
 
+## Tech Stack
+
+- Microsoft Power BI
+- Data Visualization
+- Business Intelligence
+- Data Analysis
+
 ## Tools Used
 - Power BI
 - Data Visualization
