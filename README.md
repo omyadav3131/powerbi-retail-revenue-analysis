@@ -20,6 +20,15 @@ This project analyzes an online retail dataset using Power BI to identify revenu
 - A small number of customers contribute a large portion of total revenue.
 - Geographic visualization helps identify potential markets for expansion.
 
+## Business Recommendations
+
+Based on the dashboard analysis, the following business insights can help improve decision-making:
+
+- Focus marketing and sales strategies on high-performing countries identified in the dashboard.
+- Strengthen relationships with high-value customers who contribute significantly to revenue.
+- Prepare inventory and marketing campaigns ahead of peak sales months.
+- Explore expansion opportunities in countries showing growing demand patterns.
+
 ## Files Included
 - PowerBI_Dashboard.pbix
 - dashboard_preview.png
