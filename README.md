@@ -26,3 +26,7 @@ This project analyzes an online retail dataset using Power BI to identify revenu
 
 ## Author
 Om Yadav
+
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard_preview.png)
