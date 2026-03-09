@@ -29,4 +29,4 @@ Om Yadav
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard_preview.png)
+![Power BI Dashboard](dashboard_preview.png.png)
